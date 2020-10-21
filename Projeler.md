@@ -4,7 +4,7 @@ Proje Examples will be here in a just one repo!!!
 
 
 ## HTML 
-* [1.layout.html] (https://github.com/anilodabas/project-examples/blob/master/HTML/1.Layout.html) Html temel düzeni ile ilgili çalışmalar.
+* [1.layout.html](https://github.com/anilodabas/project-examples/blob/master/HTML/1.Layout.html) Html temel düzeni ile ilgili çalışmalar.
 * [2.Heading-paragraph.html](https://github.com/anilodabas/project-examples/blob/master/HTML/2.heading-paragraph.html) Başlık ve paragraf oluşturma ile ilgili çalışmalar.
 * [Try Git](http://try.github.io/levels/1/challenges/1) A 15 minute interactive tutorial to learn the basics. 
 * [Git-it](http://nodeschool.io/#git-it) Interactive software you run from the Terminal (requires installing node.js and nmp).
