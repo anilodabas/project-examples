@@ -6,8 +6,20 @@ Proje Examples will be here in a just one repo!!!
 ## HTML 
 * [1.layout.html](https://github.com/anilodabas/project-examples/blob/master/HTML/1.Layout.html) Html temel düzeni ile ilgili çalışmalar.
 * [2.Heading-paragraph.html](https://github.com/anilodabas/project-examples/blob/master/HTML/2.heading-paragraph.html) Başlık ve paragraf oluşturma ile ilgili çalışmalar.
-* [Try Git](http://try.github.io/levels/1/challenges/1) A 15 minute interactive tutorial to learn the basics. 
-* [Git-it](http://nodeschool.io/#git-it) Interactive software you run from the Terminal (requires installing node.js and nmp).
+* [3.Styling.html](https://github.com/anilodabas/project-examples/blob/master/HTML/3.styling.html) Yazı ve arka plan stilleme ile ilgili çalışmalar.
+* [4.Formating.html](https://github.com/anilodabas/project-examples/blob/master/HTML/4.formating.html) Yazı veya görsel boyut çalışmaları.
+* [5.Links.html](https://github.com/anilodabas/project-examples/blob/master/HTML/5.Links.html) Yazı üzerine link verme çalışmaları.
+* [6.Images.html](https://github.com/anilodabas/project-examples/blob/master/HTML/6.images.html) Resim ekleme ve resim üzerine link verme çalışmaları.
+* [7.Tables.html](https://github.com/anilodabas/project-examples/blob/master/HTML/7.tables.html) Tablo ve çerçeve olşturma çalışmaları.
+* [8.lists.html](https://github.com/anilodabas/project-examples/blob/master/HTML/8.lists.html) liste sıralama ile ilgili çalışmalar.
+* [9.Videos.html](https://github.com/anilodabas/project-examples/blob/master/HTML/9.videos.html) Video oluşturma ve boyutlandırma çalışmaları.
+* [10.Audios.html](https://github.com/anilodabas/project-examples/blob/master/HTML/10.audios.html) Müzik(mp3) olarak oluşturma çalışmaları.
+* [11.Block-İnline](https://github.com/anilodabas/project-examples/blob/master/HTML/11.block-inline.html) Blok ve inline kapsama çalışmaları.
+* [12.Div-Span](https://github.com/anilodabas/project-examples/blob/master/HTML/12.div-span.html) blok ve kısım ayırma çalışmaları.
+* [13.Id-Class.html](https://github.com/anilodabas/project-examples/blob/master/HTML/13.id-class.html) İsimlendirme ve sınıflandırma çalışmaları.
+* [14.Booksmark.html](https://github.com/anilodabas/project-examples/blob/master/HTML/14.booksmark.html) Etiketlenen kısıma gitme çalışmaları.
+* [15.Forms.html](https://github.com/anilodabas/project-examples/blob/master/HTML/15.forms.html) Form oluşturma çalışmaları.
+* [16.Semantic.html](https://github.com/anilodabas/project-examples/blob/master/HTML/16.semantic.html) Semantic elementlerle sayfa oluşturma çalışmaları.
 
 ### CSS
 * [Git: No Deep Sh*t](http://rogerdudler.github.io/git-guide/) A super simplified way of explaining git, basically a cheatsheet.
