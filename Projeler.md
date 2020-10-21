@@ -4,7 +4,7 @@ Proje Examples will be here in a just one repo!!!
 
 
 ## HTML 
-* [1.Layout.html] (https://github.com/anilodabas/project-examples/blob/master/HTML/1.Layout.html) Html temel düzeni ile ilgili çalışmalar yapıldı.
+* [1.Layout] (https://github.com/anilodabas/project-examples/blob/master/HTML/1.Layout.html) Html temel düzeni ile ilgili çalışmalar yapıldı.
 * [Git Immersion](http://gitimmersion.com/lab_01.html) A website with tutorial materials you download and follow along with.
 * [Try Git](http://try.github.io/levels/1/challenges/1) A 15 minute interactive tutorial to learn the basics. 
 * [Git-it](http://nodeschool.io/#git-it) Interactive software you run from the Terminal (requires installing node.js and nmp).
