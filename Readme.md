@@ -22,8 +22,16 @@ Proje Examples will be here in a just one repo!!!
 * [16.Semantic.html](https://github.com/anilodabas/project-examples/blob/master/HTML/16.semantic.html) Semantic elementlerle sayfa oluşturma çalışmaları.
 
 ### CSS
-* [Git: No Deep Sh*t](http://rogerdudler.github.io/git-guide/) A super simplified way of explaining git, basically a cheatsheet.
-* [The Git Book](http://git-scm.com/book) Explains everything that's possible with git in lots and lots of detail.
+* [1.CSS using.html](http://rogerdudler.github.io/git-guide/) Css' in kullanımı ilgili çalışma yapıldı.
+* [2.Basic-Selectors.html](http://git-scm.com/book) Basit yapıda kullandıgıımız bir kaç selector çalışması yapıldı.
+* [3.Order.html]()Css te önce yazılan kodun işlev görmediği ve en son yazılan kodun geçerli olduğu ile ilgili çalışma.
+* [4.Webdevelopertools.html]() CSS Kullanırken Web Geliştirme Aracını efektif kullanma çalışmaları yapıldı.
+* [5.colors.html]()Css'de rgb ve opacity çalışmaları yapıldı.
+* [6.Background-colors.html]()Css üzerinde arkaplan ve arkaplan resimleri ile ilgili çalışmalar.
+* [7.Borders.html]()Border ve radius özellikleri ile ilgili  çalışmalar.
+* [8.Width-Height]() Uzunluk,genişlik ve maksimum genişlik ile ilgili çalışmalar.	]
+* [9.Display.html]() CSS - Display , Block , Inline ve Inline-Block çalışmaları.
+* [10.Margin.html]() Margin özellikleri ile ilgili çalışmalar.
 
 
 The Git Flow
