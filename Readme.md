@@ -23,13 +23,13 @@ Proje Examples will be here in a just one repo!!!
 
 ### CSS
 * [1.CSS using.html](https://github.com/anilodabas/project-examples/blob/master/css/1.using.html) Css' in kullanımı ilgili çalışma yapıldı.
-* [2.Basic-Selectors.html](https://github.com/anilodabas/project-examples/blob/master/css/2.Basic-Selector) Basit yapıda kullandıgıımız bir kaç selector çalışması yapıldı.
+* [2.Basic-Selectors.html](https://github.com/anilodabas/project-examples/blob/master/css/2.Basic-Selectors.html) Basit yapıda kullandıgıımız bir kaç selector çalışması yapıldı.
 * [3.Order.html](https://github.com/anilodabas/project-examples/blob/master/css/3.Order.html)Css te önce yazılan kodun işlev görmediği ve en son yazılan kodun geçerli olduğu ile ilgili çalışma.
 * [4.Webdevelopertools.html](https://github.com/anilodabas/project-examples/blob/master/css/4.Webdevelopertools.html) CSS Kullanırken Web Geliştirme Aracını efektif kullanma çalışmaları yapıldı.
 * [5.colors.html](https://github.com/anilodabas/project-examples/blob/master/css/5.Colors.html)Css'de rgb ve opacity çalışmaları yapıldı.
 * [6.Background-colors.html](https://github.com/anilodabas/project-examples/blob/master/css/6.Background-colors.html)Css üzerinde arkaplan ve arkaplan resimleri ile ilgili çalışmalar.
 * [7.Borders.html](https://github.com/anilodabas/project-examples/blob/master/css/7.Borders.html)Border ve radius özellikleri ile ilgili  çalışmalar.
-* [8.Width-Height](https://github.com/anilodabas/project-examples/blob/master/css/8.Width-height.html) Uzunluk,genişlik ve maksimum genişlik ile ilgili çalışmalar.	]
+* [8.Width-Height.html](https://github.com/anilodabas/project-examples/blob/master/css/8.Width-height.html) Uzunluk,genişlik ve maksimum genişlik ile ilgili çalışmalar.	]
 * [9.Display.html](https://github.com/anilodabas/project-examples/blob/master/css/9.Display.html) CSS - Display , Block , Inline ve Inline-Block çalışmaları.
 * [10.Margin.html](https://github.com/anilodabas/project-examples/blob/master/css/10.Margin.html) Margin özellikleri ile ilgili çalışmalar.
 
