@@ -33,7 +33,7 @@ Proje Examples will be here in a just one repo!!!
 * [9.Display.html](https://github.com/anilodabas/project-examples/blob/master/css/9.Display.html) CSS - Display , Block , Inline ve Inline-Block çalışmaları.
 * [10.Margin.html](https://github.com/anilodabas/project-examples/blob/master/css/10.Margin.html) Margin özellikleri ile ilgili çalışmalar.
 * [11.Padding.html](https://github.com/anilodabas/project-examples/blob/master/css/11.Padding.html)  adding ve box sizing özellikleri ile ilgili çalışmalar.
-* [12.Texts.html(https://github.com/anilodabas/project-examples/blob/master/css/12.Texts.html)   Text özellikleri ile ilgili çalışmalar.
+* [12.Texts.html](https://github.com/anilodabas/project-examples/blob/master/css/12.Texts.html)   Text özellikleri ile ilgili çalışmalar.
 * [13.Fonts.html](https://github.com/anilodabas/project-examples/blob/master/css/13.Fonts.html)  Ölçü birimleri, Font-family ve Fontlar ile ilgili çalışmalar.
 * [14.Icons.html](https://github.com/anilodabas/project-examples/blob/master/css/14.Icons.html)  Icon'ların kullanımı ile ilgili çalışma.
 * [15.PseudoClass.html](https://github.com/anilodabas/project-examples/blob/master/css/15.PseudoClass.html)  Stüdyo stilleme ile ilgili çalışmalar.
