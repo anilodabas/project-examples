@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .para1{
+            font-size: 1.5em;
+            letter-spacing: 2px;
+            line-height: 1.5em;    
+        }
+       /* .para1::first-line{
+            color: red;
+        }
+        .para1::first-letter{
+            color: blue;
+            font-size: 50px;
+        }
+           */
+         .para1::after{
+             content: "Paragraf Sonrası";
+         }
+         .para1::before{
+             content: "Paragraf Öncesi";
+         }
+
+
+    </style>
+
+</head>
+<body>
+    <p class="para1">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate inventore doloremque veritatis, exercitationem consectetur quia sequi? Labore ea eum modi, odio quae, illo placeat dolorem accusantium non porro, nihil deleniti numquam esse in. Sunt, ipsam natus libero nulla repellendus exercitationem minima corrupti, sequi rerum quis architecto aut dignissimos et expedita, minus animi alias atque. Ullam enim porro mollitia, omnis fugiat inventore excepturi quibusdam. Vitae, ratione, aliquam quas cumque necessitatibus itaque, est quaerat iure eos quia distinctio consectetur officiis voluptas. Assumenda nisi quasi reiciendis perferendis pariatur impedit libero adipisci, ad atque numquam voluptatibus ab alias consequuntur beatae at ipsam exercitationem accusamus.
+    </p>
+</body>
+
+</html>
