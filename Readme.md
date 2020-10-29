@@ -32,21 +32,21 @@ Proje Examples will be here in a just one repo!!!
 * [8.Width-Height.html](https://github.com/anilodabas/project-examples/blob/master/css/8.Width-height.html) Uzunluk,genişlik ve maksimum genişlik ile ilgili çalışmalar.	]
 * [9.Display.html](https://github.com/anilodabas/project-examples/blob/master/css/9.Display.html) CSS - Display , Block , Inline ve Inline-Block çalışmaları.
 * [10.Margin.html](https://github.com/anilodabas/project-examples/blob/master/css/10.Margin.html) Margin özellikleri ile ilgili çalışmalar.
-* [11.Padding.html]() Padding ve Box sizing özellikleri ile ilgili çalışmalar.
-* [12.Texts.html]() Text özellikleri ile ilgili çalışmalar.
-* [13.Fonts.html]() Ölçü birimleri, Font-family ve Fontlar ile ilgili çalışmalar.
-* [14.Icons.html]() Icon'ların kullanımı ile ilgili çalışma.
-* [15.PseudoClass.html]() Stüdyo stilleme ile ilgili çalışmalar.
-* [16.PseudoElement.html]() Stüdyo elementleri ve selector çalışmaları.
-* [17.Nth-child-selector.html]()Nth Child Selector ile ilgili çalışmalar.
-* [18.Tables.html]() Css te tablo yapılandırması ve şekillendirmesi üzerine çalışma.
-* [19.Overflow.html]()Overflow özelliğiyle iligili çalışmalar.
-* [20.Position.html]()Sayfada pozisyon belirleme çalışmaları yapıldı.
-* [21.float.html]()Float kullanımı ile iligili çalışmalar.
-* [22.Flexbox.html]()Flexbox oluşturma ve flex container özellikleri.
-* [23.Flexbox+.html]()Flexbox item özellikleri ile ilgili çalışmalar.
-* [24.Media-query.html]()Responsive tasarımlarla ilgili çalışmalar yapıldı.
-* [25.DifferentUnits.html]()Responsive unit ile ilgili çalışmalar.
+* [11.Padding.html](https://github.com/anilodabas/project-examples/blob/master/css/11.Padding.html) adding ve box sizing özellikleri ile ilgili çalışmalar.
+* [12.Texts.html(https://github.com/anilodabas/project-examples/blob/master/css/12.Texts.html)  Text özellikleri ile ilgili çalışmalar.
+* [13.Fonts.html](https://github.com/anilodabas/project-examples/blob/master/css/13.Fonts.html) Ölçü birimleri, Font-family ve Fontlar ile ilgili çalışmalar.
+* [14.Icons.html](https://github.com/anilodabas/project-examples/blob/master/css/14.Icons.html) Icon'ların kullanımı ile ilgili çalışma.
+* [15.PseudoClass.html](https://github.com/anilodabas/project-examples/blob/master/css/15.PseudoClass.html) Stüdyo stilleme ile ilgili çalışmalar.
+* [16.PseudoElement.html](https://github.com/anilodabas/project-examples/blob/master/css/16.PseudoElement.html) Stüdyo elementleri ve selector çalışmaları.
+* [17.Nth-child-selector.html](https://github.com/anilodabas/project-examples/blob/master/css/17.Nth-child-selector.html) Nth Child Selector ile ilgili çalışmalar.
+* [18.Tables.html](https://github.com/anilodabas/project-examples/blob/master/css/18.Tables.html) Css te tablo yapılandırması ve şekillendirmesi üzerine çalışma.
+* [19.Overflow.html](https://github.com/anilodabas/project-examples/blob/master/css/19.Overflow.html) Overflow özelliğiyle iligili çalışmalar.
+* [20.Position.html](https://github.com/anilodabas/project-examples/blob/master/css/20.Position.html) Sayfada pozisyon belirleme çalışmaları yapıldı.
+* [21.float.html](https://github.com/anilodabas/project-examples/blob/master/css/21.Float.html) Float kullanımı ile iligili çalışmalar.
+* [22.Flexbox.html](https://github.com/anilodabas/project-examples/blob/master/css/22.Flexbox.html) Flexbox oluşturma ve flex container özellikleri.
+* [23.Flexbox+.html](https://github.com/anilodabas/project-examples/blob/master/css/23.Flexbox%2B.html) Flebox item özellikleri ile ilgili çalışmalar.
+* [24.Media-query.html](https://github.com/anilodabas/project-examples/blob/master/css/24.Media-query.html) Responsive tasarımlarla ilgili çalışmalar yapıldı.
+* [25.DifferentUnits.html](https://github.com/anilodabas/project-examples/blob/master/css/25.DifferentUnits.html) Responsive unit ile ilgili çalışmalar.
 
 
 
